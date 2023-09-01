@@ -34,8 +34,10 @@
     "IDEVersion": "2023.6.0.92",
   },
   "resources": [
+    {"id":{"name":"itens","path":"notes/itens/itens.yy",},},
     {"id":{"name":"geral","path":"notes/geral/geral.yy",},},
     {"id":{"name":"mecanicas de transporte","path":"notes/mecanicas de transporte/mecanicas de transporte.yy",},},
+    {"id":{"name":"cenarios","path":"notes/cenarios/cenarios.yy",},},
     {"id":{"name":"roteiro","path":"notes/roteiro/roteiro.yy",},},
     {"id":{"name":"mecanicas de combate","path":"notes/mecanicas de combate/mecanicas de combate.yy",},},
     {"id":{"name":"Personagens","path":"notes/Personagens/Personagens.yy",},},
