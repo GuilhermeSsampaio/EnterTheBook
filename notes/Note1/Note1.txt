@@ -1,0 +1,24 @@
+Sobre o jogo:
+
+Estilo rpg pixelado
+Desenhar sprites
+Criar mecânicas de combate
+Escrever o roteiro
+a história será contada por meio de páginas de um livro 
+Pensar nos cenários
+3 fases estilo mario + boss por mundo
+3 mundos
+criar musica principal
+pensar nos menus
+criar as musicas de cada fase/mundo
+pensar no tema de cada mundo
+seriam 3 capitulos
+sendo cada um um tema diferente da mesma historia
+mercador
+multiplayer
+mecanica de navegação no mapa
+criar mapa
+
+
+
+
