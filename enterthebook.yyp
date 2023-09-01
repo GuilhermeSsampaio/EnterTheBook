@@ -34,7 +34,13 @@
     "IDEVersion": "2023.6.0.92",
   },
   "resources": [
-    {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
+    {"id":{"name":"geral","path":"notes/geral/geral.yy",},},
+    {"id":{"name":"mecanicas de transporte","path":"notes/mecanicas de transporte/mecanicas de transporte.yy",},},
+    {"id":{"name":"roteiro","path":"notes/roteiro/roteiro.yy",},},
+    {"id":{"name":"mecanicas de combate","path":"notes/mecanicas de combate/mecanicas de combate.yy",},},
+    {"id":{"name":"Personagens","path":"notes/Personagens/Personagens.yy",},},
+    {"id":{"name":"bosses","path":"notes/bosses/bosses.yy",},},
+    {"id":{"name":"mecanica de falas","path":"notes/mecanica de falas/mecanica de falas.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [

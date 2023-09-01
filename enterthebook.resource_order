@@ -16,5 +16,12 @@
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"mecanicas de transporte","order":5,"path":"notes/mecanicas de transporte/mecanicas de transporte.yy",},
+    {"name":"roteiro","order":3,"path":"notes/roteiro/roteiro.yy",},
+    {"name":"mecanicas de combate","order":4,"path":"notes/mecanicas de combate/mecanicas de combate.yy",},
+    {"name":"Personagens","order":1,"path":"notes/Personagens/Personagens.yy",},
+    {"name":"bosses","order":2,"path":"notes/bosses/bosses.yy",},
+    {"name":"mecanica de falas","order":6,"path":"notes/mecanica de falas/mecanica de falas.yy",},
+  ],
 }
